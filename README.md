@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/anindieprogrammer/order-summary-component
-- Live Site URL: [Add live site URL here]
+- Live Site URL: https://earnest-speculoos-281065.netlify.app
 
 ## My process
 
